@@ -22,6 +22,8 @@ A simple weather web application built with HTML, CSS, and JavaScript that allow
 - JavaScript (Vanilla)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
+- https://comfy-cocada-6efa37.netlify.app/
+
 ## 🌐 Demo
 
 ![Weather App Screenshot](screenshot.png) <!-- Replace or remove this line if no screenshot is available -->
