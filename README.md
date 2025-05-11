@@ -29,4 +29,5 @@ A simple weather web application built with HTML, CSS, and JavaScript that allow
 
 
 ```bash
+https://comfy-cocada-6efa37.netlify.app/
 
