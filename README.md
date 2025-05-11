@@ -29,5 +29,4 @@ A simple weather web application built with HTML, CSS, and JavaScript that allow
 
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+
